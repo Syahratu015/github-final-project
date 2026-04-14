@@ -6,3 +6,4 @@ This project calculates simple interest using shell script.
 Simple Interest = (Principal × Rate × Time) / 100
 
 MAIN BRANCH UPDATE: improved description
+BUG FIX BRANCH UPDATE: this line is added in bug-fix-typo branch
