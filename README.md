@@ -1,6 +1,8 @@
-# Simple Interest Calculator
+Simple Interest Calculator Project
 
-This project is a simple shell script to calculate simple interest based on principal, rate, and time.
+This project calculates simple interest using shell script.
 
 ## Formula
 Simple Interest = (Principal × Rate × Time) / 100
+
+MAIN BRANCH UPDATE: improved description
